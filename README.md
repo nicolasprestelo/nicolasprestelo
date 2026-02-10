@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nicolas Prestelo
+# 👋 Olá, eu sou o Nicolas
 
 🎓 Estudante de **Engenharia de Software** (1º semestre)  
 💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
