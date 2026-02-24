@@ -21,6 +21,7 @@ Gosto de aprender na prática, resolver problemas e manter meus projetos organiz
   - HTML5  
   - CSS3  
   - JavaScript (básico/intermediário)
+  - C# (básico)
 
 - **Ferramentas & Plataformas:**  
   - Git & GitHub  
