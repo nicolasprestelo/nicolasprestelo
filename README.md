@@ -1,4 +1,4 @@
-#  Nicolas Prestelo!
+#  Nicolas Prestelo
 
 🎓 Estudante de **Engenharia de Software** (1º semestre)  
 💻 Apaixonado por tecnologia, programação e aprendizado contínuo  
@@ -20,8 +20,8 @@ Gosto de aprender na prática, resolver problemas e manter meus projetos organiz
 - **Linguagens:**  
   - HTML5  
   - CSS3  
-  - JavaScript (básico/intermediário)
-  - C# (básico)
+  - JavaScript 
+  - C# 
 
 - **Ferramentas & Plataformas:**  
   - Git & GitHub  
@@ -35,6 +35,8 @@ Gosto de aprender na prática, resolver problemas e manter meus projetos organiz
 🔹 **Jogo do Número Secreto**  
 Projeto desenvolvido durante cursos de lógica de programação, utilizando HTML e JavaScript.  
 👉 https://github.com/nicolasprestelo/jogo-do-numero-secreto
+👉 https://github.com/nicolasprestelo/Stock-Control
+👉 https://github.com/nicolasprestelo/ScreenSound
 
 
 
